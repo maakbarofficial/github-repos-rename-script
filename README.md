@@ -1,1 +1,1 @@
-A git script to rename all github repos at once
+# A Script to rename all GitHub Repos at once
